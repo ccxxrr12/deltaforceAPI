@@ -18,6 +18,8 @@ Route::group('qqsafe', function () {
     Route::rule('sig', 'QQSafe/getQrSig');
     Route::rule('status', 'QQSafe/getAction');
     Route::rule('access', 'QQSafe/getAccessToken');
+    Route::rule('report', 'QQSafe/report');
+    Route::rule('bannedList', 'QQSafe/bannedList');
 });
 Route::group('wegame', function () {
     Route::group('qq', function () {
