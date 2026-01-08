@@ -23,6 +23,7 @@ composer create-project coolxitech/deltaforce deltaforce
 ~~~
 cd deltaforce
 php think run
+php think run -H 127.0.0.1 -p 8080
 ~~~
 
 然后就可以在浏览器中访问
