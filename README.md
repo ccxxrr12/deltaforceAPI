@@ -58,6 +58,3 @@ ThinkPHP® 商标和著作权所有者为上海顶想信息科技有限公司。
 
 更多细节参阅 [LICENSE](LICENSE)
 
-## 打赏
-
-![扫码打赏](https://cdn.jsdelivr.net/gh/coolxitech/coolxitech/rewarding.png)
